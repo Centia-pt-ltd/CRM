@@ -33,12 +33,20 @@
 - JavaScript
 - Bootstrap
 
+## Screenshots
 
  
+![Screenshot (15)](https://user-images.githubusercontent.com/92842316/140878339-b565f85b-11ef-4d04-b461-cb61b2dec4d5.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/92842316/140878363-cfcbcc2e-0f97-4a59-b5d6-858b56d14db9.png)
 
+![Screenshot (4)](https://user-images.githubusercontent.com/92842316/140878376-0e66e7a4-788a-461e-91dd-f81cb1993c39.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/92842316/140878384-56442829-2e5c-4a4f-b6a8-1aab40e6fe6f.png)
 
+![Screenshot (7)](https://user-images.githubusercontent.com/92842316/140878390-510cf28a-efdb-4946-ae0d-4f111e470917.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/92842316/140878401-95a27a66-e3e0-406a-96b2-9dce05df9db4.png)
 
- 
+ ![Screenshot (14)](https://user-images.githubusercontent.com/92842316/140878409-1e8fc80e-4268-4f49-b764-8021cb80443d.png)
+
 
 
 
